@@ -1,5 +1,7 @@
 # api-test-framework
 
+[![tests](https://github.com/Eryi9170/api-test-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/Eryi9170/api-test-framework/actions/workflows/tests.yml)
+
 基于 pytest + requests 的 Python 接口自动化测试项目，覆盖参数化、用例分层与 fixture 复用。
 
 被测服务：[JSONPlaceholder](https://jsonplaceholder.typicode.com)
